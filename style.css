@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    background: black;
+    width: 300px;
+    padding: 9px;
+    text-align: center;
+}
+
+p {
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+
+h3 {
+    color: blue;
+}
+
+li {
+    color: white;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: darkred;
+    width: 300px;
+    margin: 10px
+}
